@@ -41,7 +41,7 @@ body a:hover{
     font-size: 40px;
     margin: 0 !important;
     display: block;
-	font-family: 'Tangerine', cursive;
+	font-family: cursive;
     height: 0;
     line-height: 0;
     padding: .9em;
@@ -148,7 +148,7 @@ nav.navbar.navbar-default {
 }
 .bnr-text  h2 {
     font-size: 4em;
-	font-family: 'Tangerine', cursive;
+	font-family: cursive;
     color: #fff;
     text-shadow: 2px 2px #000;
     line-height:90px;
@@ -427,7 +427,7 @@ h3.title {
     font-size: 3.5em;
     color: #E88010;
     text-align: center;
-	font-family: 'Tangerine', cursive;
+	font-family: cursive;
 }
 h5.caption {
     color: #777;
@@ -480,7 +480,7 @@ h5.caption {
     text-align: center;
     position: relative;
     font-size: 2em;
-	font-family: 'Tangerine', cursive;
+	font-family: cursive;
 }
 .view p {
    font-size: 1em;
@@ -602,7 +602,7 @@ h5.caption {
 .slid h4 {
     font-size: 4em;
     color: #fff;
-	font-family: 'Tangerine', cursive;
+	font-family: cursive;
   text-shadow:2px 2px #000;
 }
 .slid p {
@@ -699,7 +699,7 @@ h5.caption {
     background: #3a3a3a;
     padding: 10px;
     text-align: center;
-    font-family: 'Tangerine', cursive;
+    font-family: cursive;
     line-height: 30px;
     text-shadow: 0px 1px #E88010;
 }
@@ -783,7 +783,7 @@ h5.caption {
 .about-slid h3 {
     color: #fff;
     font-size: 8em;
-	font-family: 'Tangerine', cursive;
+	font-family: cursive;
 }
 .about-slid p {
     color: #fff;
